@@ -1,4 +1,24 @@
-# PulseX
+PulseX/
+├── App.js
+├── package.json
+├── app.json
+├── firebaseConfig.js
+├── screens/
+│   ├── LoginScreen.js
+│   ├── RegisterScreen.js
+│   ├── HomeScreen.js
+│   ├── ForumScreen.js
+│   ├── MarketScreen.js
+│   ├── ChatScreen.js
+│   ├── LiveScreen.js
+│   ├── EntertainmentScreen.js
+│   └── ProfileScreen.js
+└── components/
+    ├── PostCard.js
+    ├── MarketItem.js
+    ├── ChatBubble.js
+    ├── ProfileHeader.js
+    └── Navbar.js# PulseX
 
 PulseX is a **social and marketplace mobile application** built with **React Native & Expo**, powered by **Firebase**.  
 It allows users to connect, chat, share posts, buy/sell items, watch live streams, and enjoy entertainment content.
